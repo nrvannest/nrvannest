@@ -14,8 +14,9 @@ Lab Technician (2019-2020): University of California Merced, Plant Ecology and E
 Sustainable Agriculture Extension Agent (2015-2017): Peace Corps Senegal  
 
 **Education**  
-MESM (2020-current): University of California - Santa Barbara, Bren School of Environmental Science and Management  
-BS (2010-2014): Michigan State University, Plant Biology  
+**MESM (2020-current)**: University of California - Santa Barbara, Bren School of Environmental Science and Management  
+Specialization in Conservation Planning and focus in Data Science  
+**BS (2010-2014)**: Michigan State University, Plant Biology with a specialization in Environmental Studies  
   
 **Contact info**  
 Email: nvannest@bren.ucsb.edu   
