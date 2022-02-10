@@ -8,7 +8,7 @@ Completing my Masters Thesis on Cougar Connectivity utilizing The Nature Conserv
 Code to recreate Sortie for the Sierra figures, readme's, code and images, or information regarding figures in Moran et. al 2021: Modeling the forest dynamics of the Sierra Nevada under climate change using SORTIE-ND, are found in SortieForTheSierra repo.
 
 **Experience**  
-NASA DEVELOP Participant & Data Manager (Summer 2021): Colorado Node (Fort Collins)
+NASA DEVELOP Participant & Data Manager (Summer 2021): Colorado Node (Fort Collins)  
 Graduate Research Assistant (2020-2021): La Kretz Research Center, Sedgewick Reserve  
 Lab Technician (2019-2020): University of California Merced, Plant Ecology and Evolution Lab  
 Sustainable Agriculture Extension Agent (2015-2017): Peace Corps Senegal  
