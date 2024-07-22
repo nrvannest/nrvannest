@@ -17,6 +17,6 @@ Specialization in Conservation Planning and focus in Data Science
 **BS (2010-2014)**: Michigan State University, Plant Biology with a specialization in Environmental Studies  
   
 **Contact info**  
-Email: nvannest@bren.ucsb.edu   
+Email: nikolevannest@gmail.com 
 LinkedIn: https://www.linkedin.com/in/nikole-vannest/
 
